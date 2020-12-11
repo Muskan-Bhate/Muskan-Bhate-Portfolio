@@ -74,9 +74,9 @@ hr {
     background-color: var(--primary-color);
     padding: 1rem;
     border-bottom-left-radius: 1rem;
-    position:fixed;
-    top:0;
-    width:100%;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .navigation .link {
@@ -172,15 +172,16 @@ hr {
     max-width: 560px;
     display: block;
     padding-top: 1.5rem;
-    margin:auto;
+    margin: auto;
     padding-bottom: 1.5rem;
 
 }
+
 .block-diagram {
     max-width: 560px;
     display: block;
     padding-top: 1.5rem;
-    margin:auto;
+    margin: auto;
     padding-bottom: 1.5rem;
 
 }
