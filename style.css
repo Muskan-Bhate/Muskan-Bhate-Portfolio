@@ -185,3 +185,23 @@ hr {
     padding-bottom: 1.5rem;
 
 }
+
+.project .project-heading {
+    padding-top: 8rem;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+.project-heading-inverted {
+    color: var(--brown-color);
+}
+
+.blog .blog-heading {
+    padding-top: 8rem;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+.blog-heading-inverted {
+    color: var(--brown-color);
+}
